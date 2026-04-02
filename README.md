@@ -30,15 +30,18 @@ This is a simple Python-based expense tracker that allows users to record daily 
 ---
 
 ## 📊 Sample Output
-
 - Total expense displayed
 - Category-wise breakdown
 - Pie chart visualization
 
 ---
 
-## 📁 Project Structure
+## 📸 Output Screenshot
+![Output](output.png)
 
+---
+
+## 📁 Project Structure
 expense_tracker.py   # Main Python script  
 README.md            # Project documentation  
 
